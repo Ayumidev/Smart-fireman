@@ -20,6 +20,7 @@ function Sobre() {
           <h1>Sobre</h1>
           <br />
         </div>
+        <div>
         <div className='texts'>
           <p>O projeto consiste em uma simples caixa, que haverá um sensor instalado,
             este sensor é programado para detectar gás, fumaça ou até mesmo fogo,
@@ -29,6 +30,7 @@ function Sobre() {
             a mais, e se certificar de que não está em perigo, dando melhor sensação
             de segurança para as pessoas. Além de conter um sensor que assim que algo
             for detectado irá alertar ao usuário e o serviço de emergência</p>
+        </div>
         </div>
         <br />
         <div className='figures'>
