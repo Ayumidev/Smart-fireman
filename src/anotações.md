@@ -1,15 +1,15 @@
 # Mobile
-[] Remover bordas do menu
-[] Descobrir de onde vem a altura fantasma
-[] Remover o fundo do botão
-[] Deixar o ícone de hamburguer e de X na cor branca
-[] Colocar um padding nas laterais da página
+[x] Remover bordas do menu
+[x] Descobrir de onde vem a altura fantasma
+[x] Remover o fundo do botão
+[x] Deixar o ícone de hamburguer e de X na cor branca
+[x] Colocar um padding nas laterais da página
 [] Centralizar os textos
 
 # Desktop
-[] Espaçar os itens do menu
+[x] Espaçar os itens do menu
 [ok] Aumentar a altura do main pra 100vh - altura do header
-[ok] Diminuir a largura dos textos de todas as páginas
+[] Diminuir a width dos textos de todas as páginas
 [] Testar alinhar os textos no centro
-
-a
+[] Distanciar e alinhar a logo com os títulos
+[] Arrumar a página de equipamentos

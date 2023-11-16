@@ -57,7 +57,7 @@
 }
 
 .ard img{
-    width: 15rem;
+    width: 10rem;
 }
 
 .mq{
@@ -118,7 +118,7 @@
     
     .tituloe h1{
         color: #000;
-        font-size: 1.7rem;
+        font-size: 1.5rem;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
@@ -144,15 +144,19 @@
 
     .texte h1{
         color: #000;
-        font-size: 1.7rem;
+        font-size: 1.5rem;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
     }
 
+    .texte h2 {
+        text-align: center;
+    }
+
     .texte p{
         color: #000;
-        font-size: 1.4rem;
+        font-size: 1.2rem;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -164,7 +168,7 @@
     }
 
     .ard img{
-        width: 30rem;
+        width: 18rem;
     }
 
     .mq{
@@ -221,5 +225,37 @@
         width: 30rem;
     }
 
+    .text-img-A{
+        margin-top: 0.2rem;
+        margin-left: 2rem;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        gap: 3rem;
+    }
+
+    .text-img-A p {
+        width: 18rem;
+    }
+
+    .text-img-M{
+        margin-top: 0.2rem;
+        margin-left: 2rem;
+    }
+
+    .text-img-D{
+        margin-top: 0.2rem;
+        margin-left: 2rem;
+    }
+
+    .text-img-S{
+        margin-top: 0.2rem;
+        margin-left: 2rem;
+    }
+
+    .text-img-M{
+        margin-top: 0.2rem;
+        margin-left: 2rem;
+    }
     
 }

@@ -29,7 +29,7 @@
 
 .texts p{
     color: #000;
-    font-size: 1.6rem;
+    font-size: 1.2rem;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -59,7 +59,7 @@
     
     .titulos h1{
         color: #000;
-        font-size: 1.7rem;
+        font-size: 1.5rem;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
@@ -81,7 +81,7 @@
 
     .texts p{
         color: #000;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -89,7 +89,7 @@
 
     .texts{
         margin-top: 0.2rem;
-        margin-left: 1rem;
+        margin-left: 2rem;
     }
  
     .figures{

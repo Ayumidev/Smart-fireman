@@ -57,7 +57,7 @@
     
     .titulod h1{
         color: #000;
-        font-size: 1.7rem;
+        font-size: 1.5rem;
         font-style: normal;
         font-weight: 700;
         line-height: normal;
@@ -73,7 +73,7 @@
     
     .contentd{
         text-align: left;
-        justify-content: left;
+        justify-content: center;
     }
 
     .textd{
@@ -83,7 +83,7 @@
 
     .textd p{
         color: #000;
-        font-size: 1.3rem;
+        font-size: 1.2rem;
         font-style: normal;
         font-weight: 400;
         line-height: normal;
@@ -91,7 +91,7 @@
 
     .figured{
         display: flex;
-        justify-content: center;
+        justify-content: left;
       }
     
     .figured img{
