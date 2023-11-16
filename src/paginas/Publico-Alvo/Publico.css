@@ -1,4 +1,5 @@
 *{
+    font-family: 'Lato', sans-serif;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -7,7 +8,6 @@
 
 .titulopa h1{
     color: #000;
-    font-family: Montserrat;
     font-size: 1.5rem;
     font-style: normal;
     font-weight: 700;
@@ -44,7 +44,6 @@
 
 .textpa li{
     color: #000;
-    font-family: Commissioner;
     font-size: 1.5rem;
     font-style: normal;
     font-weight: 700;
@@ -53,7 +52,6 @@
 
 .textpa p{
     color: #000;
-    font-family: Commissioner;
     font-size: 1.6rem;
     font-style: normal;
     font-weight: 400;
@@ -82,7 +80,6 @@
     
     .titulopa h1{
         color: #000;
-        font-family: Montserrat;
         font-size: 1.7rem;
         font-style: normal;
         font-weight: 700;
@@ -100,17 +97,19 @@
     
     .contentpa{
         text-align: left;
-        justify-content: left;
+        justify-content: center;
     }
 
     .textpa{
         margin-top: 0.2rem;
         margin-left: 1rem;
+
+        max-width: 50rem;
+        text-align: center;
     }
     
     .textpa li{
         color: #000;
-        font-family: Commissioner;
         font-size: 1.5rem;
         font-style: normal;
         font-weight: 700;
@@ -119,7 +118,6 @@
 
     .textpa p{
         color: #000;
-        font-family: Commissioner;
         font-size: 1.6rem;
         font-style: normal;
         font-weight: 400;
@@ -133,7 +131,6 @@
 
     .pt2 li{
         color: #000;
-        font-family: Commissioner;
         font-size: 1.6rem;
         font-style: normal;
         font-weight: 700;
@@ -148,5 +145,9 @@
     
     .figurepa img{
         width: 40rem;
+    }
+
+    .imagem-texto{
+        flex-direction: row;
     }
 }

@@ -18,6 +18,7 @@
     padding-right: 2rem;
     transition: translate .3s;
     position: absolute;
+
 }
 
 .menu nav {
@@ -40,7 +41,6 @@
     
     color: #080706;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    font-family: Montserrat;
     font-size: 1.2rem;
     font-weight: 800;
     display: flex;
@@ -60,8 +60,9 @@
 
     .menu-desktop {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         align-items: center;
+        height: 4rem;
     }
 
     .principal{
@@ -73,12 +74,16 @@
         background-color: #FFCDC6;
         color: #080706;
         text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-        font-family: Montserrat;
         font-size: 1.2rem;
         font-weight: 800;
         display: flex;
         justify-content: space-between;
         align-items: center;
         padding: 1.0rem;    
+    }
+
+    .menu-desktop nav {
+        display: flex;
+        gap: 3rem;
     }
 }
