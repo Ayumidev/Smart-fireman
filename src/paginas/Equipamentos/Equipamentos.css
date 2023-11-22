@@ -177,7 +177,7 @@
     }
 
     .mq img{
-        width: 30rem;
+        width: 18rem;
     }
 
     .lcd{
@@ -186,7 +186,7 @@
     }
 
     .lcd img{
-        width: 30rem;
+        width: 18rem;
     }
 
     .ky{
@@ -195,7 +195,7 @@
     }
 
     .ky img{
-        width: 30rem;
+        width: 18rem;
     }
 
     .gsm{
@@ -204,7 +204,7 @@
     }
 
     .gsm img{
-        width: 30rem;
+        width: 18rem;
     }
 
     .lm{
@@ -213,7 +213,7 @@
     }
 
     .lm img{
-        width: 30rem;
+        width: 18rem;
     }
 
     .blue{
@@ -222,7 +222,7 @@
     }
 
     .blue img{
-        width: 30rem;
+        width: 18rem;
     }
 
     .text-img-A{
@@ -241,21 +241,49 @@
     .text-img-M{
         margin-top: 0.2rem;
         margin-left: 2rem;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        gap: 3rem;
+    }
+
+    .text-img-M p {
+        width: 18rem;
     }
 
     .text-img-D{
         margin-top: 0.2rem;
         margin-left: 2rem;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        gap: 3rem;
+    }
+
+    .text-img-D p {
+        width: 18rem;
     }
 
     .text-img-S{
         margin-top: 0.2rem;
         margin-left: 2rem;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        gap: 3rem;
+    }
+
+    .text-img-S p {
+        width: 18rem;
     }
 
     .text-img-M{
         margin-top: 0.2rem;
         margin-left: 2rem;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        gap: 3rem;
     }
     
 }
